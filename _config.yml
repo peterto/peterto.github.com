@@ -17,6 +17,7 @@ author :
   github : peterto
   twitter : peterto
   feedburner : PeterTo
+  flickr : peter_to
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -65,7 +66,7 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : disqus
+    provider : false
     disqus :
       short_name : jekyllbootstrap
     livefyre :
