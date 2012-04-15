@@ -90,6 +90,9 @@ people, learn something new, and play some awesome games.
 You can play the game my group made for Molyjam
 [here](http://www.whatwouldmolydeux.com/display.php?GameID=115)
 
+Check out [this](http://www.youtube.com/watch?v=unyd6auu9tA) documentary on another group in NYC making their Molyjam
+game.
+
 Let me know what you think!
 
 {% include JB/setup %}
