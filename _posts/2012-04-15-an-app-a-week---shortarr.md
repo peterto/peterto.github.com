@@ -40,11 +40,17 @@ the URL instead of generating my own hash to complete the shortened URL.
 Issues and stuff I could have done better
 -----------------------------------------
 
-So I could have wrote more tests, but, I wanted to get this out of the
-door, so I didn't catch everything I needed to test. I could've used
-shorter hashes for the shortened URL, but why do more work for myself
-when Mongo does all the heavy lifting for me.
+* Write more tests
+  
+  I wanted to get this out of the door, so I didn't catch everything I needed to test. 
 
+* Use shorter hashes for the shortened URL
+
+  But why do more work for myself when Mongo does all the heavy lifting for me. 
+
+* Making it look pretty.
+
+  I'm still struggling with overall design. Designer, I am not.
 
 Next App
 ========
